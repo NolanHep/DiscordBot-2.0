@@ -4,7 +4,7 @@ import asyncio
 from itertools import cycle
 import youtube_dl
 
-TOKEN = 'NTA2ODIzNzQyODc4Mzg0MTQ4.DrnwJw.lPqpVJWqk0iqz0XfscA9_p8WZW0'
+TOKEN = 'TOKEN - FIND THIS ON DISCORD WEBSITE'
 
 client = commands.Bot(command_prefix='!')
 status = ['nolanhepworth.me', 'Type !Help', 'Type !Support']
